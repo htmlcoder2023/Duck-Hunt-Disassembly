@@ -1,6 +1,6 @@
 # Duck Hunt Disassembly
 
-This is a disassembly of the Duck Hunt (World).nes ROM. It assembles with nesasm (https://github.com/ClusterM/nesasm) and creates a byte-for-byte perfect copy of the Duck Hunt (World).nes ROM. 
+This is a disassembly of the Duck Hunt (World).nes ROM. It assembles with nesasm (https://github.com/ClusterM/nesasm) and creates a byte-for-byte perfect copy of the Duck Hunt (World).nes ROM. You must provide a copy of the duckhunt.chr file from the Duck Hunt (World).nes ROM for this project to assemble in nesasm.
 
 
 # TODO (This will take a while...)

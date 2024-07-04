@@ -1,14 +1,7 @@
-# Duck Hunt Disassembly
+# Hashes (CRC32)
 
-This is a disassembly of the Duck Hunt (World).nes ROM. It assembles with nesasm (https://github.com/ClusterM/nesasm) and creates a byte-for-byte perfect copy of the Duck Hunt (World).nes ROM. You must provide a copy of the 8KB duckhunt.chr file split from the Duck Hunt (World).nes ROM for this project to assemble in nesasm.
+duckhunt_PRG00.bin: 90CA616D
 
+duckhunt_CHR00.bin: 4E049E03
 
-# TODO (This will take a while...)
-
-1. Name each variable.
-   
-2. Name each label.
-   
-3. Decode the giant blobs of data.
-   
-4. Document the game's functions via comments.
+duckhunt_HDR.bin: C038FAC1
